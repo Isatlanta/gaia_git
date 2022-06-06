@@ -1,0 +1,11 @@
+footer#colophon {
+  display: none;
+}
+
+div.entry-meta {
+  display: none;
+}
+
+div#respond.comment-respond {
+  display: none;
+}

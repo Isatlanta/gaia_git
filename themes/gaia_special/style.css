@@ -1,0 +1,22 @@
+/* 
+	Theme Name: gaia_special
+	Template: astra 
+	Version: 3.8.1
+	Theme URI: https://wpastra.com/
+	Author: Brainstorm Force
+	Author URI: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+	Description: Astra Child Theme
+	Author: Isabell Skov
+	*/
+
+footer#colophon {
+  display: none;
+}
+
+div.entry-meta {
+  display: none;
+}
+
+div#respond.comment-respond {
+  display: none;
+}
